@@ -1,0 +1,50 @@
+
+*{
+margin: 0px;
+padding: 0px;
+
+}
+h1{
+    background-color: blue;
+    color:white;
+    text-align: center;
+}
+
+body{
+    background-image: url(eliz.jpg);
+
+background-color: rgb(96, 157, 219);
+
+
+}
+
+img{
+
+border-radius: 50%;
+width: 300px;
+height: 300px;
+display: block;
+margin: auto;
+margin-top: 25px;
+
+
+
+}
+section{
+    color: springgreen;
+}
+h2{
+    background-color: thistle;
+    color:white;
+    text-align: center;
+}
+p{
+    margin-left: 50px;
+    margin-right: 100px;
+    color: white;
+}
+.black{
+    color:white;
+    margin-left: 25px;
+    margin-top: 20px;
+}
